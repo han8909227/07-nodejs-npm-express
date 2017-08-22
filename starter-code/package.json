@@ -15,6 +15,7 @@
   "author": "han-greg",
   "license": "MIT",
   "dependencies": {
+    "body-parser": "^1.17.2",
     "express": "^4.15.4"
   }
 }
