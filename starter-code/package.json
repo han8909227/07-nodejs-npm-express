@@ -1,0 +1,20 @@
+{
+  "name": "starter-code",
+  "version": "1.0.0",
+  "description": "day 7 lab",
+  "main": "server.js",
+  "scripts": {
+    "test": "no test",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "day",
+    "7",
+    "lab"
+  ],
+  "author": "han-greg",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
